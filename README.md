@@ -16,6 +16,6 @@ Barra de progreso personalizada en Android studio.
         android:max="20"
         android:progress="0"
         android:secondaryProgress="0"
-  --->      android:progressDrawable="@drawable/progressbar_progress"  <----
+        android:progressDrawable="@drawable/progressbar_progress" 
         android:thumb="@drawable/seek_thumb"
       />
